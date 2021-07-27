@@ -1,5 +1,6 @@
 # HEMP
 HEMP: High order Entropy Minimizationfor neural network comPression
+
 [![DOI](https://zenodo.org/badge/doi/10.1016/j.neucom.2021.07.022.svg)](http://dx.doi.org/10.1016/j.neucom.2021.07.022)
 [![arXiv](https://img.shields.io/badge/arXiv-2102.03773-b31b1b.svg)](https://arxiv.org/abs/2107.05298)
 
